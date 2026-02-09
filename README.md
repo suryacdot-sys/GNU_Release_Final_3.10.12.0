@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <img src="https://github.com/gnuradio/gnuradio/blob/master/docs/gnuradio.png" width="75%" />
 </p>
@@ -102,3 +103,6 @@ made. For some files, changes have occurred in many consecutive years.
 These files may often have the format of a year range (e.g., "2006 - 2011"), 
 which indicates that these files have had copyrightable changes made 
 during each year in the range, inclusive.
+=======
+# GNU_Release_Final_3.10.12.0
+>>>>>>> 928095ad2b7041c0267465743e0682b1f937b1df
